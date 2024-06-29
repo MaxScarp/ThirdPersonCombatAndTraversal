@@ -1,0 +1,17 @@
+{
+    "name": "PlayerStateMachine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f50e4087384a38a4396a58c45385cdcf",
+        "GUID:847d1dedd3219a84eb88c8deeb68c62c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
